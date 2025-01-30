@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ym1wfa906-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ym1wfa906-go
